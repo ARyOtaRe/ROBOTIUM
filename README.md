@@ -1,2 +1,2 @@
-# Coupe-de-France-de-robotique
+# Robotium
 Repository containing all the codes of ROBOTIUM.
